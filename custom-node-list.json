@@ -23492,5 +23492,15 @@
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
         }
+        {
+            "author": "Alejandro Tuzzi",
+            "title": "TUZZI-ByPass - Custom Nodes for ComfyUI",
+            "reference": "https://github.com/AlejandroTuzzi/TUZZI-ByPass",
+            "files": [
+            "https://github.com/AlejandroTuzzi/TUZZI-ByPass"
+            ],
+            "install_type": "git-clone",
+            "description": "A collection of automation-friendly nodes for ComfyUI focused on building loops, text formatting, Reddit content extraction, and intelligent control flows. Ideal for transforming web content into dynamic AI-generated video narratives."
+        }
     ]
 }
